@@ -21,7 +21,7 @@
 
     <int-file:outbound-channel-adapter id="writer"
                                        channel="fileWriterChannel"
-                                       directory="/Users/dalei/files"
+                                       directory="/Users/dalei/folder"
                                        mode="APPEND"
                                        append-new-line="true" />
 
